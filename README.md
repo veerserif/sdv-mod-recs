@@ -1,15 +1,14 @@
 # veer's recommended Stardew Valley mods
-Changelog
+
 2019-04-29: finished guide.
 
 # Table of Contents
-
-[Getting Started](#getting-started)
-[Utilities and frameworks](#utilities)
-[User Interface](#userinterface)
-[Quality of Life](#qol)
-[Specific Fixes](#smallfixes)
-[Quality of Life+](#qolplus)
+1. [Getting Started](#getting-started)
+2. [Utilities and frameworks](#utilities)
+3. [User Interface](#userinterface)
+4. [Quality of Life](#qol)
+5. [Specific Fixes](#smallfixes)
+6. [Quality of Life+](#qolplus)
 
 # Getting Started {#getting-started}
 
